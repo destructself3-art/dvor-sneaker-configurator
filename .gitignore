@@ -1,0 +1,8 @@
+# local tooling / OS
+.claude/
+.DS_Store
+Thumbs.db
+*.log
+
+# source model archives from Sketchfab (too large for GitHub)
+refs/*.zip
